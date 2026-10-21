@@ -1,0 +1,6 @@
+{
+  "name": "Letters for Anshika 💌",
+  "description": "A dreamy, interactive romantic love letter website dedicated to Anshika with playful surprises, paper envelopes, and sweet moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
